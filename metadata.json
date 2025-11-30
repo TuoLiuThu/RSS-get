@@ -1,0 +1,5 @@
+{
+  "name": "AI Podcast Digest",
+  "description": "An AI-powered podcast aggregator that generates daily bilingual summaries for your favorite tech and business podcasts using Gemini 2.5.",
+  "requestFramePermissions": []
+}
